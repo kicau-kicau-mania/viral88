@@ -1,6 +1,5 @@
 # Viral88 - Platform Konten Viral
 
-![Viral88 Banner](https://167.71.199.11/asset/viral88-login.jpg)
 
 ## 🚀 Tentang Viral88
 Viral88 adalah platform digital yang membantu kreator, brand, dan individu untuk membuat konten yang **cepat viral** dengan algoritma berbasis AI & tren real-time.
